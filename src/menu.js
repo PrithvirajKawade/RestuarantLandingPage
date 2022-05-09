@@ -3,11 +3,11 @@ export const appendMenu = () => {
     gridContainer.classList = 'grid-container';  
     
     const menu = [
-        {img: '../images/greentea.png',
+        {img: 'https://www.linkpicture.com/q/greentea.png',
         name: 'Green Tea'},
-        {img: '../images/matcha.png',
+        {img: 'https://www.linkpicture.com/q/matcha.png',
         name: 'Motcha Tea'},
-        {img: '../images/herbal.png',
+        {img: 'https://www.linkpicture.com/q/herbal.png',
         name: 'Herbal Tea'}
     ];
 

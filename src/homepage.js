@@ -16,7 +16,7 @@ export const appendHome = () => {
   titleElement.classList = 'title';
   subTitleElement.innerHTML = '100% ORGANIC & FAIR TRADE';
   imageContainerElement.classList = 'img-container';
-  imageElement.setAttribute('src', '../images/home.png');
+  imageElement.setAttribute('src', 'https://www.linkpicture.com/q/home_31.png');
   imageElement.setAttribute('alt', 'tea cup');
 
 
